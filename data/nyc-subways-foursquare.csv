@@ -1,0 +1,471 @@
+id,foursquare:id,name,foursquare:name,fuzzywuzzy:match
+35453353,4b2d93a9f964a5201fd924e3,W 4th St - Washington Sq (Lower) (B-D-F-M),MTA Subway - W 4th St/Washington Sq (A/B/C/D/E/F/M),70
+35453355,4fa53fa0e4b0c1088e24fa0b,Buhre Ave (6-6 Express),Mta Subway (buhre Ave 6) Buhre Ave Station,50
+35453357,4bba1bab7421a5936165c340,51st St (4-6-6 Express),MTA Subway - 42nd St/Grand Central Terminal (4/5/6/7/S),26
+35453359,4b664c9cf964a520f51c2be3,86th St (1-2),MTA Subway - 86th St (1),91
+35453361,4ad78220f964a520960b21e3,Brooklyn Bridge - City Hall (4-5-6-6 Express),MTA Subway - Fulton St (A/C/J/Z/2/3/4/5),25
+35453363,49e36914f964a5207b621fe3,33rd St (4-6-6 Express),Herald Square,30
+35453365,4b572861f964a520ac2828e3,Lexington Ave - 59th St (4-5-6-6 Express),MTA Subway - Lexington Ave/59th St (N/Q/R/4/5/6),68
+35453369,4be15c230f03a593010319b4,233rd St (2-5),MTA Subway - 233rd St (2/5),92
+35453371,4adf9445f964a520c47b21e3,66th St - Lincoln Ctr (1-2),MTA Subway - 72nd St/Broadway (1/2/3),35
+35453373,4de50905814df7ebdc24374e,Hunts Point Ave (6-6 Express),ttmg Fan Spot - Southern Bl & Westchester Av (Longwood),35
+35453375,,Canal St (1-2),,0
+35453377,4fa53fa0e4b0c1088e24fa0b,Middletown Rd (6-6 Express),Mta Subway (buhre Ave 6) Buhre Ave Station,29
+35453379,4b57eacef964a5202c4628e3,23rd St (4-6-6 Express),MTA Subway - 23rd St (6),64
+35453381,,45th Rd - Court House Sq (7-7 Express),,0
+35453383,4b2d8479f964a5203dd824e3,Astor Pl (4-6-6 Express),MTA Subway - Astor Pl (4/6),68
+35453387,,59th St - Columbus Circle (1-2),,0
+35453389,4b280de9f964a520498e24e3,Hunters Point Ave (7-7 Express),MTA Subway - Hunters Point Ave (7),80
+35453391,4b41e8f5f964a52019ca25e3,96th St (4-6-6 Express),MTA Subway - 96th St (6),64
+35453393,4dd4005f6365c27b0dbf11e1,Mets - Willets Point (7-7 Express),MTA Regional Bus Depot & Subway Yard - Casey Stengel / Corona Yard,27
+35453395,4b1724d4f964a520f6c223e3,23rd St (1-2),MTA Subway - 18th St (1),58
+35453397,,Houston St (1-2),,0
+35453399,,3rd Ave - 138th St (6-6 Express),,0
+35453401,,Zerega Ave (6-6 Express),,0
+35453405,4b5f653df964a520e0b729e3,104th St (A-S),MTA Subway - Rockaway Blvd (A),38
+35453407,4b2d8479f964a5203dd824e3,Bleecker St (Downtown) (4-6-6 Express),MTA Subway - Astor Pl (4/6),33
+35453409,,Castle Hill Ave (6-6 Express),,0
+35453411,4b6bb92ef964a520b7162ce3,Broad Channel (A-S),MTA Subway - Broad Channel (A/S),94
+35453413,4b92e9f1f964a5208a2634e3,Ocean Pkwy (Q),MTA Subway - W 8th St/NY Aquarium (F/Q),35
+35453415,4b0b2275f964a520772d23e3,50th St (1-2),MTA Subway - 47th-50th St/Rockefeller Center (B/D/F/M),53
+35453417,4b280de9f964a520498e24e3,Vernon Blvd - Jackson Ave (7-7 Express),MTA Subway - Hunters Point Ave (7),38
+35453419,4b60d6c7f964a520bafc29e3,68th St - Hunter College (4-6-6 Express),MTA Subway - Lexington Ave/63rd St (F),18
+35453423,4ad684abf964a520970721e3,Queensboro Plz (7-7 Express-N-W),MTA Subway - Queensboro Plaza (N/Q/7),64
+35453425,4b5f653df964a520e0b729e3,Rockaway Blvd (A-S),MTA Subway - Rockaway Blvd (A),94
+35453427,4b57eacef964a5202c4628e3,Union Sq - 14th St (4-5-6-6 Express),MTA Subway - 23rd St (6),45
+35453429,4be37fa5b02ec9b6b6d64fc0,Junction Blvd (7-7 Express),MTA Subway - 103rd St/Corona Plaza (7),40
+35453431,,Classon Ave (G),,0
+35453433,,Bedford - Nostrand Aves (G),,0
+35453435,4acd43fdf964a5209ecb20e3,15th St - Prospect Park (F-G),MTA Subway - 15th St/Prospect Park (F/G),89
+35453437,,7th Ave (F-G),,0
+35453441,,Ft Hamilton Pkwy (F-G),,0
+35453443,4c0a9f936071a593f3e4df32,Church Ave (F-G),MTA Subway - Church Ave (F/G),93
+35453445,4b200f21f964a520ac2c24e3,Beverly Rd (B-Q),MTA Subway - Cortelyou Rd (B/Q),70
+35453447,,Church Ave (B-Q),,0
+35453449,4bb52e252ea19521bd20aa2f,Newkirk Ave (B-Q),MTA Subway - Newkirk Plaza (B/Q),64
+35453451,,Parkside Ave (B-Q),,0
+35453453,4b636f5df964a5209d792ae3,Prospect Park (B-Q-S),MTA Subway - Prospect Park (B/Q/S),90
+35453455,4b03d4e8f964a5204e5022e3,Grand Army Plaza (2-3-4),MTA Subway - 7th Ave (B/Q),27
+35453459,4acfc371f964a520d2d520e3,Bergen St (2-3-4),MTA Subway - Atlantic Ave-Barclays Center (B/D/N/Q/R/2/3/4/5),29
+35453461,4acfc371f964a520d2d520e3,Atlantic Ave (2-3-4-5),MTA Subway - Atlantic Ave-Barclays Center (B/D/N/Q/R/2/3/4/5),59
+35453463,,Rockaway Ave (A-C),,0
+35453465,4acfc371f964a520d2d520e3,Fulton St (G),MTA Subway - Atlantic Ave-Barclays Center (B/D/N/Q/R/2/3/4/5),23
+35453467,,Clinton - Washington Aves (G),,0
+35453469,4b03d4e8f964a5204e5022e3,7th Ave (B-Q),MTA Subway - 7th Ave (B/Q),92
+35453471,4acfc371f964a520d2d520e3,Atlantic Ave (B-Q),MTA Subway - Atlantic Ave-Barclays Center (B/D/N/Q/R/2/3/4/5),72
+35453473,,Union St (D-N-R),,0
+35453477,4acfc371f964a520d2d520e3,Atlantic Av - Pacific St (D-N-R),MTA Subway - Atlantic Ave-Barclays Center (B/D/N/Q/R/2/3/4/5),46
+35453479,4b3a1855f964a520026125e3,Borough Hall (4-5),MTA Subway - Jay St-MetroTech (A/C/F/R),34
+35453481,4c5ac0202091a593ff0e60d0,Aqueduct Racetrack (To Manh Only) (A),MTA Subway - Aqueduct/N Conduit Ave (A),44
+35453483,4b3a1855f964a520026125e3,DeKalb Ave (B-D-N-Q-R),MTA Subway - Jay St-MetroTech (A/C/F/R),29
+35453485,,Morris Park (5),,0
+35453487,4eeaa4ed77c8730d38061384,Pelham Pkwy (5),MTA Subway - Pelham Parkway (5),80
+35453489,,Nostrand Ave (A-C),,0
+35453491,4acfc371f964a520d2d520e3,Nevins St (2-3-4-5),MTA Subway - Atlantic Ave-Barclays Center (B/D/N/Q/R/2/3/4/5),31
+35453495,4bc10723920eb713b9161a2c,Eastern Pkwy - Bklyn Museum (2-3-4),MTA Subway - Park Place (S),40
+35453497,4bc10723920eb713b9161a2c,Franklin Ave (2-3-4-5),MTA Subway - Park Place (S),34
+35453499,4b5d272ef964a520c15429e3,Beverly Rd (2-5),MTA Subway - Church Ave (2/5),53
+35453501,4b5d272ef964a520c15429e3,Church Ave (2-5),MTA Subway - Church Ave (2/5),93
+35453503,4bf99c94328d76b0f4a114ec,Newkirk Ave (2-5),MTA Subway - Newkirk Ave (2/5),94
+35453505,4b5b5d39f964a52000f828e3,Brooklyn College - Flatbush Ave (2-5),MTA Subway - Brooklyn College/Flatbush Av (2/5),90
+35453507,,Winthrop St (2-5),,0
+35453509,,Sterling St (2-5),,0
+35453513,4b7d7a14f964a520f2c02fe3,Crown Hts - Utica Ave (3-4),MTA Subway - Crown Heights/Utica Ave (3/4),77
+35453515,4bd1af9b41b9ef3bca54fce5,Kingston Ave (3-4),MTA Subway - Nostrand Ave (3),64
+35453517,,Kingston - Throop Aves (A-C),,0
+35453519,,Nassau Ave (G),,0
+35453521,,Greenpoint Ave (G),,0
+35453523,4ab84166f964a520bd7c20e3,Marcy Ave (J-M-Z),MTA Subway - Marcy Ave (J/M/Z),88
+35453525,4ab84166f964a520bd7c20e3,Hewes St (J-M),MTA Subway - Marcy Ave (J/M/Z),42
+35453527,4b2d6938f964a52019d624e3,Essex St (J-M-Z),MTA Subway - Lower East Side/2nd Ave (F),31
+35453531,4e0e8ffcd22d8582bdc0fe97,138th St - Grand Concourse (4-5),MTA - 149St G.C. (2) (4) (5),37
+35453533,4b0b2275f964a520772d23e3,5th Ave - 53rd St (E-M),MTA Subway - 47th-50th St/Rockefeller Center (B/D/F/M),30
+35453535,4b572861f964a520ac2828e3,Lexington Ave - 53rd St (E-M),MTA Subway - Lexington Ave/59th St (N/Q/R/4/5/6),65
+35453537,49e36914f964a5207b621fe3,28th St (N-R),Herald Square,15
+35453539,49e36914f964a5207b621fe3,Herald Sq - 34th St (N-Q-R),Herald Square,69
+35453541,4b4ba686f964a520d9a226e3,1st Ave (L),MTA Subway - 3rd Ave (L),72
+35453543,42829c80f964a5206a221fe3,Grand Central - 42nd St (S),Grand Central Terminal,68
+35453545,4adcd010f964a5206e3021e3,Times Sq - 42nd St (S),MTA Subway - 42nd St/Bryant Park (B/D/F/M),59
+35453549,42829c80f964a5206a221fe3,42nd St - Bryant Pk (B-D-F-M),Grand Central Terminal,22
+35453551,49e36914f964a5207b621fe3,Times Sq - 42nd St (N-Q-R),Herald Square,30
+35453553,,Metropolitan Ave (G),,0
+35453555,,Grand St (L),,0
+35453557,,Graham Ave (L),,0
+35453559,,Lorimer St (L),,0
+35453561,,Bedford Ave (L),,0
+35453563,4a6d2857f964a5209fd21fe3,Broadway (G),MTA Subway  - Lorimer St (J/M),33
+35453567,4a6d2857f964a5209fd21fe3,Lorimer St (J-M),MTA Subway  - Lorimer St (J/M),93
+35453569,,Montrose Ave (L),,0
+35453571,4ad684abf964a520970721e3,23rd St - Ely Av (E-M),MTA Subway - Queensboro Plaza (N/Q/7),27
+35453573,4ad684abf964a520970721e3,Long Island City - Court Sq (G),MTA Subway - Queensboro Plaza (N/Q/7),35
+35453575,4b280de9f964a520498e24e3,21st St (G),MTA Subway - Hunters Point Ave (7),45
+35453577,4b609fedf964a520f2f029e3,39th Ave (N-Q),MTA Subway - 36th St (M/R),51
+35453579,4b609fedf964a520f2f029e3,36th Ave (N-Q),MTA Subway - 36th St (M/R),59
+35453581,,145th St (1),,0
+35453585,4c432dc5ff711b8d48891405,157th St (1),MTA Subway - 157th St (1),100
+35453587,4b0e1598f964a520c85423e3,96th St (1-2-3),MTA Subway - 96th St (1/2/3),86
+35453589,,103rd St (1),,0
+35453591,,Central Park North (110th St) (2-3),,0
+35453593,4b698533f964a520a8a52be3,103rd St (A-B-C),MTA Subway - 103rd St (B/C),86
+35453595,,Cathedral Pkwy (110th St) (A-B-C),,0
+35453597,4adf9445f964a520c47b21e3,72nd St (1-2-3),MTA Subway - 72nd St/Broadway (1/2/3),46
+35453599,4adf9445f964a520c47b21e3,72nd St (A-B-C),MTA Subway - 72nd St/Broadway (1/2/3),53
+35453603,4b129b4ff964a520458b23e3,81st St (A-B-C),MTA Subway - 79th St (1),53
+35453605,4bafc607f964a520b21f3ce3,75th Ave (E-F),MTA Subway - Union Tpke/Kew Gardens (E/F),50
+35453607,4bafc607f964a520b21f3ce3,Kew Gardens - Union Tpke (E-F),MTA Subway - Union Tpke/Kew Gardens (E/F),53
+35453609,4af0ab4cf964a52020de21e3,86th St (A-B-C),MTA Subway - 81st St (B/C),71
+35453611,4b0eed54f964a520e55c23e3,96th St (A-B-C),MTA Subway - 96th St (B/C),85
+35453613,4b15bfd2f964a520b9b323e3,Cathedral Pkwy (110th St) (1),MTA Subway - 116th St/Columbia University (1),37
+35453615,4b15bfd2f964a520b9b323e3,116th St - Columbia University (1),MTA Subway - 116th St/Columbia University (1),93
+35453617,49de0156f964a52021601fe3,125th St (2-3),Metro North - Harlem 125th Station,59
+35453621,4ac1c7d4f964a520a89720e3,135th St (2-3),MTA Subway - 135th St (2/3),92
+35453623,4e0e8ffcd22d8582bdc0fe97,149th St - Grand Concourse (4),MTA - 149St G.C. (2) (4) (5),34
+35453625,,116th St (2-3),,0
+35453627,,Tremont Ave (B-D),,0
+35453629,4b5a8d8df964a5200fcb28e3,182nd-183rd Sts (B-D),MTA Subway - 182nd/183rd Sts (B/D),90
+35453631,4b2c7911f964a52044c724e3,137th St - City College (1),MTA Subway - 137th St/City College (1),92
+35453633,4b6038aef964a5209dda29e3,145th St (3),MTA Subway - Harlem/148th St (3),91
+35453635,4b9f8632f964a520b52837e3,176th St (4),MTA Subway - Mount Eden Ave (4),41
+35453639,4b5a8d8df964a5200fcb28e3,Burnside Ave (4),MTA Subway - 182nd/183rd Sts (B/D),33
+35453641,,170th St (B-D),,0
+35453643,4b9f8632f964a520b52837e3,174th-175th Sts (B-D),MTA Subway - Mount Eden Ave (4),25
+35453645,,168th St (1),,0
+35453647,4b3c1211f964a5204b8125e3,181st St (1),MTA Subway - 181st St (A),91
+35453649,,168th St (A-C),,0
+35453651,4b06d110f964a520c3f022e3,191st St (1),MTA Subway - 190th St (A),75
+35453653,4b3c1211f964a5204b8125e3,175th St (A),MTA Subway - 181st St (A),78
+35453657,,Beach 44th St (A),,0
+35453659,,Beach 60th St (A),,0
+35453661,4c4bfb8c5609c9b6a204e091,Beach 105th St (A-S),MTA Subway - Beach 105th St (A/S),95
+35453663,4c4bfb8c5609c9b6a204e091,Beach 98th St (A-S),MTA Subway - Beach 105th St (A/S),78
+35453665,,Rockaway Park - Beach 116 St (A-S),,0
+35453667,4c33a69fed37a5936bb56d03,Beach 90th St (A-S),MTA Subway - Beach 90th St (A/S),94
+35453669,,Beach 36th St (A),,0
+35453671,4debaa82091af392726e9633,Beach 25th St (A),MTA Subway - Beach 25th St (A),100
+35453675,4bf4bd28d2fbef3bd9d5a4c5,Parsons Blvd (F),MTA Subway - Parsons Blvd (F),100
+35453677,,169th St (F),,0
+35453679,4be37fa5b02ec9b6b6d64fc0,103rd St - Corona Plaza (7),MTA Subway - 103rd St/Corona Plaza (7),92
+35453681,4aee3aa5f964a5201bd321e3,111th St (7),MTA Subway - 111th St (7),100
+35453683,4c66f1e5aebea5935aab74d0,63rd Dr - Rego Park (E-M-R),MTA Subway - 63rd Dr/Rego Park (M/R),84
+35453685,4c255952f7ced13ac581246d,Grant Ave (A-S),MTA Subway - Grant Ave (A),92
+35453687,4b129b4ff964a520458b23e3,79th St (1-2),MTA Subway - 79th St (1),91
+35453689,4cf56c74c020b60c539d1a75,Atlantic Ave (L),MTA East New York Depot,31
+35453693,4b2d93a9f964a5201fd924e3,Christopher St - Sheridan Sq (1-2),MTA Subway - W 4th St/Washington Sq (A/B/C/D/E/F/M),38
+35453695,,E 149th St (6),,0
+35453697,4bd6475c637ba593fe0cf870,Ozone Park - Lefferts Blvd (A-S),MTA Subway - Ozone Park/Lefferts Blvd (A),90
+35453699,4adcd010f964a5206e3021e3,Times Sq - 42nd St (7-7 Express),MTA Subway - 42nd St/Bryant Park (B/D/F/M),46
+35453701,4b17cc4bf964a52049c823e3,77th St (4-6-6 Express),MTA Subway - 77th St (6),64
+35453703,4aa5c657f964a5206d4920e3,Woodside - 61st St (7-7 Express),LIRR - Woodside Station,47
+35453705,4bd6475c637ba593fe0cf870,111th St (A-S),MTA Subway - Ozone Park/Lefferts Blvd (A),46
+35453707,4b575c8df964a520993328e3,Flushing - Main St (7-7 Express),MTA Subway - Main St (7),58
+35453711,4bd1b96a77b29c7439118d82,W 8th St - NY Aquarium (F-Q),MTA Subway - Coney Island/Stillwell Ave (D/F/N/Q),32
+35453713,49e36914f964a5207b621fe3,28th St (1-2),Herald Square,15
+35453715,4b57eacef964a5202c4628e3,28th St (4-6-6 Express),MTA Subway - 23rd St (6),47
+35453717,,Pelham Bay Park (6-6 Express),,0
+35453719,,Westchester Sq - E Tremont Ave (6-6 Express),,0
+35453721,4b1724d4f964a520f6c223e3,18th St (1-2),MTA Subway - 18th St (1),91
+35453723,42829c80f964a5206a221fe3,Grand Central - 42nd St (4-5-6-6 Express),Grand Central Terminal,68
+35453725,42829c80f964a5206a221fe3,Grand Central - 42nd St (7-7 Express),Grand Central Terminal,68
+35453729,,Canal St (4-6-6 Express),,0
+35453731,,Beach 67th St (A),,0
+35453733,4b2d93a9f964a5201fd924e3,W 4th St - Washington Sq (Upper) (A-C-E),MTA Subway - W 4th St/Washington Sq (A/B/C/D/E/F/M),61
+35453735,,67th Ave (E-M-R),,0
+35453737,4bc3670fb492d13a9bb2a860,85th St - Forest Pky (J),MTA Subway - 85th St/Forest Pkwy (J/Z),83
+35453739,4bc3670fb492d13a9bb2a860,Woodhaven Blvd (J-Z),MTA Subway - 85th St/Forest Pkwy (J/Z),43
+35453741,4bb09331f964a520f14c3ce3,111th St (J),MTA Subway - 111th St (J),100
+35453743,4bb4ef3a29269c74e5d6ca92,121st St (J-Z),MTA Subway - 121st St (J/Z),92
+35453747,4a513b17f964a520d2b01fe3,Sutphin Blvd - Archer Av (E-J-Z),LIRR - Jamaica Station,18
+35453749,,Halsey St (L),,0
+35453751,4b52cd44f964a5204d8827e3,Myrtle Ave (L),MTA Subway - Myrtle/Wyckoff Ave (L/M),57
+35453753,4db9c0601e7251d53c6c819a,New Lots Ave (3-4),MTA Subway - Van Siclen Ave (3),62
+35453755,4db9c0601e7251d53c6c819a,Van Siclen Ave (3-4),MTA Subway - Van Siclen Ave (3),94
+35453757,4db9c0601e7251d53c6c819a,Pennsylvania Ave (3-4),MTA Subway - Van Siclen Ave (3),60
+35453759,,Van Siclen Ave (A-C),,0
+35453761,4c320866ed37a593da266b03,Van Siclen Ave (J-Z),MTA Subway - Van Siclen Ave (J/Z),95
+35453765,4c320866ed37a593da266b03,Cleveland St (J),MTA Subway - Van Siclen Ave (J/Z),53
+35453767,,Livonia Ave (L),,0
+35453769,,Sutter Ave (L),,0
+35453771,4b61a925f964a520231c2ae3,Junius St (3-4),MTA Subway - Rockaway Ave (3),35
+35453773,4b61a925f964a520231c2ae3,Rockaway Ave (3-4),MTA Subway - Rockaway Ave (3),94
+35453775,4b8f50d9f964a520365133e3,Canarsie - Rockaway Pkwy (L),MTA Subway - Canarsie/Rockaway Pkwy (L),92
+35453777,4b8f50d9f964a520365133e3,E 105th St (L),MTA Subway - Canarsie/Rockaway Pkwy (L),35
+35453779,,Saratoga Ave (3-4),,0
+35453783,4b93d226f964a520625334e3,Sutter Ave - Rutland Road (3-4),MTA Subway - Sutter Ave/Rutland Rd (3),85
+35453785,,New Lots Ave (L),,0
+35453787,4c1bfde8013795217bfd46f3,Far Rockaway - Mott Ave (A),MTA Subway - Far Rockaway/Mott Ave (A),92
+35453789,,Chauncey St (J-Z),,0
+35453791,4cf56c74c020b60c539d1a75,Broadway Junction (J-Z),MTA East New York Depot,15
+35453793,4b941318f964a520206634e3,Halsey St (J),MTA Subway - Halsey St (J/Z),92
+35453795,4cf56c74c020b60c539d1a75,Alabama Ave (J),MTA East New York Depot,33
+35453797,4c769e21b474a1cd737cbcbf,Shepherd Ave (A-C),MTA Subway - Shepherd Ave (A/C),94
+35453801,4bcf23929854d13afd6df54d,Norwood Ave (J-Z),MTA Subway - Crescent St (J/Z),42
+35453803,4bcf23929854d13afd6df54d,Crescent St (J-Z),MTA Subway - Crescent St (J/Z),94
+35453805,,Cypress Hills (J),,0
+35453807,,75th St - Eldert Ln (J-Z),,0
+35453809,4b283971f964a520289124e3,69th St (7),MTA Subway - 74th St/Roosevelt Ave/Jackson Heights (E/F/M/R/7),45
+35453811,4b283971f964a520289124e3,74th St - Broadway (7),MTA Subway - 74th St/Roosevelt Ave/Jackson Heights (E/F/M/R/7),36
+35453813,4aa5c657f964a5206d4920e3,65th St (E-M-R),LIRR - Woodside Station,22
+35453815,,Woodhaven Blvd - Queens Mall (E-M-R),,0
+35453819,4b52cd44f964a5204d8827e3,Wyckoff Ave (M),MTA Subway - Myrtle/Wyckoff Ave (L/M),86
+35453821,4b52cd44f964a5204d8827e3,Seneca Ave (M),MTA Subway - Myrtle/Wyckoff Ave (L/M),57
+35453823,,DeKalb Ave (L),,0
+35453825,,52nd St (7),,0
+35453827,4b4bc4f9f964a52013a726e3,46th St (E-M-R),MTA Subway - Steinway St (M/R),57
+35453829,,Northern Blvd (E-M-R),,0
+35453831,4ab05286f964a520116720e3,46th St (7),MTA Subway - 46th St/Bliss St (7),63
+35453833,4db188824b22ba776d845c6f,82nd St - Jackson Hts (7),MTA Subway - 82nd St/Jackson Heights (7),80
+35453837,,90th St - Elmhurst Av (7),,0
+35453839,4b9284f5f964a5205a0034e3,Grand Ave - Newtown (E-M-R),MTA Subway - Grand Ave/Newtown (M/R),84
+35453841,4db188824b22ba776d845c6f,Elmhurst Ave (E-M-R),MTA Subway - 82nd St/Jackson Heights (7),33
+35453843,4a7ead5ef964a5200cf21fe3,Howard Beach - JFK Airport (A),MTA Subway - Howard Beach/JFK Airport (A),93
+35453845,4c5ac0202091a593ff0e60d0,Aqueduct - North Conduit Av (A),MTA Subway - Aqueduct/N Conduit Ave (A),84
+35453847,4bb09331f964a520f14c3ce3,104th-102nd Sts (J-Z),MTA Subway - 111th St (J),60
+35453849,4badc1bcf964a52047673be3,Briarwood - Van Wyck Blvd (E-F),MTA Subway - Briarwood/Van Wyck Blvd (E/F),90
+35453851,4aedc59af964a520c3ce21e3,Forest Hills - 71st Av (E-F-M-R),LIRR - Forest Hills Station,33
+35453855,4b606711f964a520dfe329e3,Sutphin Blvd (F),MTA Subway - Sutphin Blvd/Archer Ave/JFK Air Train (E/J/Z),75
+35453857,4b844030f964a520622a31e3,Jamaica - Van Wyck (E),MTA Subway - Jamaica/Van Wyck (E),90
+35453859,4bb7d95153649c74916146fb,Jamaica Ctr - Parsons / Archer (E-J-Z),MTA Subway - Jamaica Center/Parsons/Archer Ave (E/J/Z),76
+35453861,4dbea69dfa8cee7273844c63,Simpson St (2-5),MTA Subway - Whitlock Ave (6),40
+35453863,4dbea69dfa8cee7273844c63,Freeman St (2-5),MTA Subway - Whitlock Ave (6),26
+35453865,4b8ca10bf964a520c5d832e3,225th St (2-5),MTA Subway - 219th St (2/5),78
+35453867,,Elder Ave (6),,0
+35453869,,Morrison Av - Soundview (6),,0
+35453873,,Longwood Ave (6),,0
+35453875,,Astoria Blvd (N-Q),,0
+35453877,,Astoria - Ditmars Blvd (N-Q),,0
+35453879,4ba8c654f964a520dbed39e3,Jackson Ave (2-5),MTA Subway - Jackson Ave (2/5),94
+35453881,4ba8c654f964a520dbed39e3,Prospect Ave (2-5),MTA Subway - Jackson Ave (2/5),62
+35453883,4bb0e484f964a52074673ce3,Cypress Ave (6),MTA Subway - Brook Ave (6),60
+35453885,4dbea69dfa8cee7273844c63,Whitlock Ave (6),MTA Subway - Whitlock Ave (6),100
+35453887,4de50905814df7ebdc24374e,Intervale Ave (2-5),ttmg Fan Spot - Southern Bl & Westchester Av (Longwood),47
+35453891,,174th St (2-5),,0
+35453893,4b498c79f964a5201e7126e3,Pelham Pkwy (2-5),MTA Subway - Pelham Parkway (2/5),82
+35453895,,Allerton Ave (2-5),,0
+35453897,,E 143rd St - St Mary's St (6),,0
+35453899,4b261ec3f964a520977824e3,Kingsbridge Rd (4),MTA Subway - Fordham Rd (B/D),44
+35453901,4aeca43cf964a520c9c921e3,Bedford Park Blvd - Lehman College (4),MTA Subway - Bedford Park Blvd/Lehman College (4),94
+35453903,4b6038aef964a5209dda29e3,Harlem - 148 St (3),MTA Subway - Harlem/148th St (3),84
+35453905,4b9f8632f964a520b52837e3,Mt Eden Ave (4),MTA Subway - Mount Eden Ave (4),93
+35453909,4ad8795ff964a520a21121e3,Fordham Rd (B-D),Metro North - Fordham Train Station,56
+35453911,4bbe01eef57ba5939ac1aeb9,170th St (4),MTA Subway - 167th St (4),91
+35453913,4b261ec3f964a520977824e3,Kingsbridge Rd (B-D),MTA Subway - Fordham Rd (B/D),50
+35453915,4aeca43cf964a520c9c921e3,Bedford Park Blvd (B-D),MTA Subway - Bedford Park Blvd/Lehman College (4),73
+35453917,4e84b7b530f84cdd79adfed0,Marble Hill - 225th St (1),MTA Subway - 1 Train,30
+35453919,,231st St (1),,0
+35453921,4b3bb228f964a520077925e3,215th St (1),MTA Subway - Inwood/207th St (A),75
+35453923,4b3bb228f964a520077925e3,207th St (1),MTA Subway - Inwood/207th St (A),91
+35453927,4b3bb228f964a520077925e3,Inwood - 207th St (A),MTA Subway - Inwood/207th St (A),90
+35453929,4aee747df964a520dcd321e3,238th St (1),MTA Subway - 242nd St/Van Cortlandt Park (1),50
+35453931,4aee747df964a520dcd321e3,Van Cortlandt Park - 242nd St (1),MTA Subway - 242nd St/Van Cortlandt Park (1),80
+35453933,4d7177152868f04d41128b07,West Farms Sq - E Tremont Av (2-5),MTA Subway - 5 Train,45
+35453935,,St Lawrence Ave (6),,0
+35453937,,Bronx Park East (2-5),,0
+35453939,4b6f0c2af964a52063d92ce3,Gun Hill Rd (2-5),MTA Subway - Gun Hill Rd (2/5),94
+35453941,4b8ca10bf964a520c5d832e3,219th St (2-5),MTA Subway - 219th St (2/5),92
+35453945,,Mosholu Pkwy (4),,0
+35453947,4c233b009085d13a6f7e87cc,Norwood - 205th St (D),MTA Subway - Norwood/205th St (D),90
+35453949,,Burke Ave (2-5),,0
+35453951,4c080a48009a0f47db78e5bf,Baychester Ave (5),MTA Subway - Baychester Ave (5),100
+35453953,4c42562fe26920a1e8f65fe7,Eastchester - Dyre Ave (5),MTA Subway - Eastchester/Dyre Ave (5),92
+35453955,4b047a25f964a5207d5422e3,Jamaica - 179th St (F),MTA Subway - 179th St (F),80
+35453957,4b1f3c65f964a5200c2524e3,Wakefield - 241st St (2),MTA Subway - Wakefield/241st St (2),91
+35453959,4bc10723920eb713b9161a2c,Botanic Garden (S),MTA Subway - Park Place (S),45
+35453963,,Bushwick - Aberdeen (L),,0
+35453965,5027e2d6e4b08ea91449864d,Wilson Ave (L),MTA Subway - Chauncey St J Train,23
+35453967,4cf56c74c020b60c539d1a75,Broadway Junction (L),MTA East New York Depot,20
+35453969,,Gun Hill Rd (5),,0
+35453971,4d7177152868f04d41128b07,E 180th St (2-5),MTA Subway - 5 Train,31
+35453973,4ae10ae7f964a520ce8421e3,Dyckman St (1),MTA Subway - Dyckman St (1),100
+35453975,,125th St (1),,0
+35453977,4bc10723920eb713b9161a2c,Park Pl (S),MTA Subway - Park Place (S),72
+35453981,,Franklin Ave - Fulton St (S),,0
+35453983,4be15c230f03a593010319b4,Nereid Ave (238 St) (2-5),MTA Subway - 233rd St (2/5),42
+35453985,4e0e8ffcd22d8582bdc0fe97,149th St - Grand Concourse (2-5),MTA - 149St G.C. (2) (4) (5),36
+35453987,,3rd Ave - 149th St (2-5),,0
+35453989,4b7dce5af964a520cad52fe3,161st St - Yankee Stadium (4),Metro North - Yankees E. 153rd Street Train Station,51
+35453991,4bbe01eef57ba5939ac1aeb9,167th St (4),MTA Subway - 167th St (4),100
+35453993,4bb0e484f964a52074673ce3,Brook Ave (6),MTA Subway - Brook Ave (6),100
+35453995,4b722301f964a52079702de3,33rd St (7),MTA Subway - 40th St/Lowery St (7),72
+35453999,4ab05286f964a520116720e3,40th St (7),MTA Subway - 46th St/Bliss St (7),63
+35454001,4b6038aef964a5209dda29e3,145th St (A-B-C-D),MTA Subway - Harlem/148th St (3),66
+35454003,4bceeebafb84c9b6e57b243e,155th St (B-D),MTA Subway - 163rd St/Amsterdam Ave (C),35
+35454005,4b7dce5af964a520cad52fe3,161st St - Yankee Stadium (B-D),Metro North - Yankees E. 153rd Street Train Station,48
+35454007,4bbe01eef57ba5939ac1aeb9,167th St (B-D),MTA Subway - 167th St (4),84
+35454009,,Ralph Ave (A-C),,0
+35454011,4b0b68cef964a5202f3123e3,Utica Ave (A-C),MTA Subway - Utica Ave (A/C),93
+35454013,4b609fedf964a520f2f029e3,36th St (E-M-R),MTA Subway - 36th St (M/R),85
+35454017,4b4bc4f9f964a52013a726e3,Steinway St (E-M-R),MTA Subway - Steinway St (M/R),88
+35454019,,Kosciuszko St (J),,0
+35454021,4b5284f5f964a520ce8027e3,Gates Ave (J-Z),MTA Subway - Gates Ave (J/Z),93
+35454023,,Central Ave (M),,0
+35454025,,Knickerbocker Ave (M),,0
+35454027,,Broadway (N-Q),,0
+35454029,,30th Ave (N-Q),,0
+35454031,,Jefferson St (L),,0
+35454035,,Morgan Ave (L),,0
+35454037,4ad684abf964a520970721e3,Queens Plz (E-M-R),MTA Subway - Queensboro Plaza (N/Q/7),66
+35454039,4bfe051cf61dc9b648f09fde,18th Ave (F),MTA Subway - Ditmas Ave (F),75
+35454041,4bfe051cf61dc9b648f09fde,Ditmas Ave (F),MTA Subway - Ditmas Ave (F),100
+35454043,4b72d9d6f964a520718b2de3,77th St (R),MTA Subway - 77th St (R),100
+35454045,,Bay Ridge Ave (R),,0
+35454047,4b89ce3cf964a520e74d32e3,55th St (D),MTA Subway - 50th St (D),90
+35454049,4b89ce3cf964a520e74d32e3,50th St (D),MTA Subway - 50th St (D),100
+35454053,4b105b45f964a520916e23e3,Ft Hamilton Pkwy (N),MTA Subway - 8th Ave (N),40
+35454055,4b105b45f964a520916e23e3,8th Ave (N),MTA Subway - 8th Ave (N),100
+35454057,4bd20f6fb221c9b63bd4d6d0,25th Ave (D),MTA Subway - 25th Ave (D),100
+35454059,4bdc528dfed22d7fcea057c9,Bay Pky (D),MTA Subway - Bay Parkway (D),63
+35454061,4abe3770f964a520078c20e3,20th Ave (N),MTA Subway - Bay Parkway (N),41
+35454063,4abd3401f964a520fe8820e3,18th Ave (N),MTA Subway - 20th Ave (N),83
+35454065,4afadf61f964a520391922e3,Bay Ridge - 95th St (R),MTA Subway - Bay Ridge/95th St (R),90
+35454067,,86th St (R),,0
+35454071,4d8fb54a6174a0932c9ae4e3,79th St (D),MTA Subway - D Train,36
+35454073,4ac49d49f964a520c49e20e3,71st St (D),MTA Subway - 71st St (D),100
+35454075,4ba68b45f964a520c65c39e3,20th Ave (D),MTA Subway - 20th Ave (D),100
+35454077,4ba68b45f964a520c65c39e3,18th Ave (D),MTA Subway - 20th Ave (D),83
+35454079,4e2de053a8092ca5c37048b0,62nd St (D),MTA Subway - 62nd St/New Utrecht Ave (D/N),63
+35454081,4e2de053a8092ca5c37048b0,New Utrecht Ave (N),MTA Subway - 62nd St/New Utrecht Ave (D/N),89
+35454083,4c520d0f9d642d7fdaa591de,Ave U (F),MTA Subway - Avenue U (N),66
+35454085,,Kings Hwy (F),,0
+35454089,,Brighton Beach (B-Q),,0
+35454091,4aff3636f964a520ed3522e3,Sheepshead Bay (B-Q),MTA Subway - Sheepshead Bay (B/Q),95
+35454093,4b1bd941f964a52019fe23e3,Ave U (B-Q),MTA Subway - Avenue U (Q),72
+35454095,4bcb05dc0687ef3bcde2dccc,Kings Hwy (B-Q),MTA Subway - Kings Highway (B/Q),73
+35454097,4c520d0f9d642d7fdaa591de,Ave U (N),MTA Subway - Avenue U (N),77
+35454099,4a929bd6f964a5203c1d20e3,Kings Hwy (N),MTA Subway - Kings Highway (N),69
+35454101,4b92e9f1f964a5208a2634e3,Neptune Ave (F),MTA Subway - W 8th St/NY Aquarium (F/Q),40
+35454103,4bf13b20b315c9b6a5bd93ff,Ave X (F),MTA Subway - Avenue X (F),77
+35454107,4be1f028ae55a593db0f5c62,Bay 50th St (D),MTA Subway - Bay 50th St (D),100
+35454109,4c520d0f9d642d7fdaa591de,Gravesend - 86th St (N),MTA Subway - Avenue U (N),42
+35454111,,Ave P (F),,0
+35454113,,Ave N (F),,0
+35454115,4d9a8aa6422ea1cd98f6e84c,Bay Pky (F),MTA Subway - Bay Pkwy (F),90
+35454117,,Ave M (B-Q),,0
+35454119,4abe3770f964a520078c20e3,Bay Pky (N),MTA Subway - Bay Parkway (N),63
+35454121,4d9a8aa6422ea1cd98f6e84c,Ave I (F),MTA Subway - Bay Pkwy (F),55
+35454125,4ba67125f964a520d05239e3,Ave J (B-Q),MTA Subway - Avenue H (B/Q),63
+35454127,4ba67125f964a520d05239e3,Ave H (B-Q),MTA Subway - Avenue H (B/Q),72
+35454129,4b1bd941f964a52019fe23e3,Neck Rd (B-Q),MTA Subway - Avenue U (Q),52
+35454131,4ad684abf964a520970721e3,21st St - Queensbridge (F),MTA Subway - Queensboro Plaza (N/Q/7),53
+35454133,4b0b2275f964a520772d23e3,50th St (A-C-E),MTA Subway - 47th-50th St/Rockefeller Center (B/D/F/M),46
+35454135,4b0b2275f964a520772d23e3,7th Ave (B-D-E),MTA Subway - 47th-50th St/Rockefeller Center (B/D/F/M),46
+35454137,4adcd010f964a5206e3021e3,47th-50th Sts - Rockefeller Ctr (B-D-F-M),MTA Subway - 42nd St/Bryant Park (B/D/F/M),37
+35454139,4b367d28f964a520963625e3,57th St (F),MTA Subway - 5th Ave (N/Q/R),54
+35454143,4b572861f964a520ac2828e3,Lexington Ave - 63rd St (F),MTA Subway - Lexington Ave/59th St (N/Q/R/4/5/6),66
+35454145,,Roosevelt Island - Main St (F),,0
+35454147,,59th St - Columbus Circle (A-B-C-D),,0
+35454149,4b0b2275f964a520772d23e3,49th St (N-Q-R),MTA Subway - 47th-50th St/Rockefeller Center (B/D/F/M),46
+35454151,4ab9b7b0f964a520358020e3,57th St (N-Q-R),MTA Subway - 49th St (N/Q/R),73
+35454153,4b572861f964a520ac2828e3,5th Ave - 59th St (N-Q-R),MTA Subway - Lexington Ave/59th St (N/Q/R/4/5/6),68
+35454155,4b572861f964a520ac2828e3,Lexington Ave - 59th St (N-Q-R),MTA Subway - Lexington Ave/59th St (N/Q/R/4/5/6),80
+35454157,49e36914f964a5207b621fe3,34th St - Penn Station (1-2-3),Herald Square,30
+35454161,49e36914f964a5207b621fe3,Times Sq - 42nd St (1-2-3),Herald Square,30
+35454163,4ad78220f964a520960b21e3,Broadway - Nassau St (A-C),MTA Subway - Fulton St (A/C/J/Z/2/3/4/5),53
+35454165,4ad78220f964a520960b21e3,Chambers St (A-C),MTA Subway - Fulton St (A/C/J/Z/2/3/4/5),41
+35454167,4adcd010f964a5206e3021e3,42nd St - Port Authority Bus Term (A-C-E),MTA Subway - 42nd St/Bryant Park (B/D/F/M),37
+35454169,,Myrtle-Willoughby Aves (G),,0
+35454171,4a6d2857f964a5209fd21fe3,Flushing Ave (G),MTA Subway  - Lorimer St (J/M),31
+35454173,4b57eacef964a5202c4628e3,23rd St (F-M),MTA Subway - 23rd St (6),83
+35454175,49e36914f964a5207b621fe3,Herald Sq - 34th St (B-D-F-M),Herald Square,69
+35454179,4b3a1855f964a520026125e3,Hoyt - Schermerhorn Sts (A-C-G),MTA Subway - Jay St-MetroTech (A/C/F/R),38
+35454181,4b3a1855f964a520026125e3,Jay St - Borough Hall (A-C-F),MTA Subway - Jay St-MetroTech (A/C/F/R),58
+35454183,,East Broadway (F),,0
+35454185,4b2d6938f964a52019d624e3,Delancey St (F),MTA Subway - Lower East Side/2nd Ave (F),46
+35454187,4b2d6938f964a52019d624e3,Lower East Side - 2nd Ave (F),MTA Subway - Lower East Side/2nd Ave (F),92
+35454189,4b039599f964a520d44f22e3,Flushing Ave (J-M),MTA Subway - Flushing Ave (J/M),94
+35454191,4b039599f964a520d44f22e3,Myrtle Ave (J-M-Z),MTA Subway - Flushing Ave (J/M),55
+35454193,4adcf849f964a5200c6321e3,4th Ave (F-G),MTA Subway - 4th Ave/9th St (F/G/R),61
+35454197,4adcf849f964a5200c6321e3,Smith - 9th Sts (F-G),MTA Subway - 4th Ave/9th St (F/G/R),66
+35454199,,Bergen St (F-G),,0
+35454201,4b3a1855f964a520026125e3,Lawrence St (N-R),MTA Subway - Jay St-MetroTech (A/C/F/R),41
+35454203,4b3a1855f964a520026125e3,Court St (N-R),MTA Subway - Jay St-MetroTech (A/C/F/R),28
+35454205,4b57eacef964a5202c4628e3,Union Sq - 14th St (N-Q-R),MTA Subway - 23rd St (6),45
+35454207,4b57eacef964a5202c4628e3,23rd St (N-R),MTA Subway - 23rd St (6),83
+35454209,,Prospect Ave (D-N-R),,0
+35454211,4adcf849f964a5200c6321e3,9th St (D-N-R),MTA Subway - 4th Ave/9th St (F/G/R),71
+35454215,4b2d8479f964a5203dd824e3,3rd Ave (L),MTA Subway - Astor Pl (4/6),45
+35454217,4b57eacef964a5202c4628e3,Union Sq - 14th St (L),MTA Subway - 23rd St (6),50
+35454219,4cf56c74c020b60c539d1a75,Liberty Ave (A-C),MTA East New York Depot,18
+35454221,4cf56c74c020b60c539d1a75,Broadway Junction (A-C),MTA East New York Depot,6
+35454223,4b891e3df964a520b21d32e3,59th St (N-R),MTA Subway - 59th St (N/R),92
+35454225,,45th St (N-R),,0
+35454227,4bf804ee8d30d13a1feaff17,36th St (D-N-R),MTA Subway - 36th St (D/N/R),86
+35454229,4c1290c98aedd13a88515137,9th Ave (D),MTA Subway - 9th Ave (D),100
+35454233,,53rd St (N-R),,0
+35454235,4c1290c98aedd13a88515137,Ft Hamilton Pkwy (D),MTA Subway - 9th Ave (D),40
+35454237,4bd9e2225f34b713dde03579,25th St (D-N-R),MTA Subway - 25th St (R),84
+35454239,4ae27cdff964a520958e21e3,Carroll St (F-G),MTA Subway - Carroll St (F/G),93
+35454241,,Spring St (A-C-E),,0
+35454243,4b3c1211f964a5204b8125e3,181st St (A),MTA Subway - 181st St (A),100
+35454245,4b06d110f964a520c3f022e3,190th St (A),MTA Subway - 190th St (A),100
+35454247,,116th St (A-B-C),,0
+35454251,4ae49e4ff964a520639c21e3,125th St (A-B-C-D),MTA Subway - 125th St (A/B/C/D),83
+35454253,,Prince St (N-R),,0
+35454255,4b2d93a9f964a5201fd924e3,8th St - NYU (N-R),MTA Subway - W 4th St/Washington Sq (A/B/C/D/E/F/M),33
+35454257,4ad78220f964a520960b21e3,Fulton St (2-3),MTA Subway - Fulton St (A/C/J/Z/2/3/4/5),73
+35454259,4ad78220f964a520960b21e3,Park Pl (2-3),MTA Subway - Fulton St (A/C/J/Z/2/3/4/5),30
+35454261,4ad78220f964a520960b21e3,Chambers St (1-2-3),MTA Subway - Fulton St (A/C/J/Z/2/3/4/5),36
+35454263,4b3a1855f964a520026125e3,Hoyt St (2-3),MTA Subway - Jay St-MetroTech (A/C/F/R),38
+35454265,4b3a1855f964a520026125e3,Borough Hall (2-3),MTA Subway - Jay St-MetroTech (A/C/F/R),34
+35454269,4b5a8d8df964a5200fcb28e3,183rd St (4),MTA Subway - 182nd/183rd Sts (B/D),83
+35454271,4b261ec3f964a520977824e3,Fordham Rd (4),MTA Subway - Fordham Rd (B/D),85
+35454273,4ad78220f964a520960b21e3,World Trade Center (E),MTA Subway - Fulton St (A/C/J/Z/2/3/4/5),22
+35454275,,Canal St - Holland Tunnel (A-C-E),,0
+35454277,4c432dc5ff711b8d48891405,155th St (A-C),MTA Subway - 157th St (1),76
+35454279,4c432dc5ff711b8d48891405,163rd St - Amsterdam Av (A-C),MTA Subway - 157th St (1),24
+35454281,4ad78220f964a520960b21e3,Fulton St (J-Z),MTA Subway - Fulton St (A/C/J/Z/2/3/4/5),73
+35454283,4ad78220f964a520960b21e3,Chambers St (J-Z),MTA Subway - Fulton St (A/C/J/Z/2/3/4/5),41
+35454287,,Canal St (J-Z),,0
+35454289,4ad78220f964a520960b21e3,City Hall (N-R),MTA Subway - Fulton St (A/C/J/Z/2/3/4/5),26
+35454291,,Canal St (N-R),,0
+35454293,4b0800f9f964a5202a0223e3,South Ferry (1),MTA Subway - Wall St (2/3),33
+35454295,4b0800f9f964a5202a0223e3,Bowling Green (4-5),MTA Subway - Wall St (2/3),31
+35454297,4ad78220f964a520960b21e3,Wall St (4-5),MTA Subway - Fulton St (A/C/J/Z/2/3/4/5),46
+35454299,4b0800f9f964a5202a0223e3,Whitehall St (N-R),MTA Subway - Wall St (2/3),64
+35454301,4ad78220f964a520960b21e3,Rector St (N-R),MTA Subway - Fulton St (A/C/J/Z/2/3/4/5),46
+35454305,4b60e501f964a52030002ae3,Fresh Pond Rd (M),MTA Subway - Fresh Pond Rd (M),100
+35454307,4b9c1989f964a520054a36e3,Middle Village - Metropolitan Ave (M),MTA Subway - Middle Village/Metropolitan Ave (M),94
+35454309,4b0800f9f964a5202a0223e3,Rector St (1),MTA Subway - Wall St (2/3),46
+35454311,4ad78220f964a520960b21e3,Cortlandt St (Temporarily Closed) (1),MTA Subway - Fulton St (A/C/J/Z/2/3/4/5),29
+35454313,4ad78220f964a520960b21e3,Fulton St (4-5),MTA Subway - Fulton St (A/C/J/Z/2/3/4/5),73
+35454315,4ad78220f964a520960b21e3,Broad St (J-Z),MTA Subway - Fulton St (A/C/J/Z/2/3/4/5),50
+35454317,4ad78220f964a520960b21e3,Cortlandt St (NB only) (N-R),MTA Subway - Fulton St (A/C/J/Z/2/3/4/5),30
+35454319,4ad78220f964a520960b21e3,Wall St (2-3),MTA Subway - Fulton St (A/C/J/Z/2/3/4/5),46
+35454323,4ae10ae7f964a520ce8421e3,Dyckman St (A),MTA Subway - Dyckman St (1),92
+35454325,,Grand St (B-D),,0
+35454327,505f9055e4b02078ac6cbc28,Broadway - Lafayette St (B-D-F-M),mta astor,33
+35454329,4b2d6938f964a52019d624e3,Bowery (J-Z),MTA Subway - Lower East Side/2nd Ave (F),41
+35454331,,Canal St (N-Q),,0
+35454333,4b1724d4f964a520f6c223e3,23rd St (A-C-E),MTA Subway - 18th St (1),46
+35454335,49e36914f964a5207b621fe3,34th St - Penn Station (A-C-E),Herald Square,30
+35454337,4b283971f964a520289124e3,Jackson Hts - Roosevelt Av (E-F-M-R),MTA Subway - 74th St/Roosevelt Ave/Jackson Heights (E/F/M/R/7),50
+35454341,4b12a150f964a5208f8b23e3,14th St (1-2-3),MTA Subway - Christopher St/Sheridan Square (1),46
+35454343,,135th St (A-B-C),,0
+35454345,4b1724d4f964a520f6c223e3,14th St (F-M),MTA Subway - 18th St (1),75
+35454347,4b12a150f964a5208f8b23e3,6th Ave (L),MTA Subway - Christopher St/Sheridan Square (1),45
+35454349,4b12a150f964a5208f8b23e3,8th Ave (L),MTA Subway - Christopher St/Sheridan Square (1),45
+35454351,4b1724d4f964a520f6c223e3,14th St (A-C-E),MTA Subway - 18th St (1),69
+35454353,4bd1af9b41b9ef3bca54fce5,Nostrand Ave (3-4),MTA Subway - Nostrand Ave (3),94
+35454355,4aba69b7f964a520388120e3,Clark St (2-3),MTA Subway - Borough Hall/Court St (R/2/3/4/5),57
+35454359,,Franklin Ave (A-C),,0
+35454361,,Clinton - Washington Aves (A-C),,0
+35454363,,Forest Ave (M),,0
+35454365,4b56856df964a520d21328e3,110th St (4-6-6 Express),MTA Subway - 103rd St (6),50
+35454367,4b21aee7f964a5201b4024e3,86th St (4-5-6-6 Express),MTA Subway - 86th St (4/5/6),65
+35454369,4b203d47f964a5202e2f24e3,York St (F),MTA Subway - High St/Brooklyn Bridge (A/C),36
+35454371,4b203d47f964a5202e2f24e3,High St (A-C),MTA Subway - High St/Brooklyn Bridge (A/C),53
+35454373,4acfc371f964a520d2d520e3,Lafayette Ave (A-C),MTA Subway - Atlantic Ave-Barclays Center (B/D/N/Q/R/2/3/4/5),47
+35454377,4bd1af9b41b9ef3bca54fce5,President St (2-5),MTA Subway - Nostrand Ave (3),29
+35454379,4af1d4c8f964a52099e321e3,Woodlawn (4),MTA Subway - Woodlawn (4),100
+35454381,4b2d8479f964a5203dd824e3,Bleecker St (Uptown) (4-6-6 Express),MTA Subway - Astor Pl (4/6),33
+35454383,4b56856df964a520d21328e3,103rd St (4-6-6 Express),MTA Subway - 103rd St (6),66
+35454385,,Euclid Ave (A-C-S),,0
+35454387,4c1d08b263750f47d285b767,88th St (A-S),MTA Subway - 88th St/Boyd Ave (A),61
+35454389,4b200f21f964a520ac2c24e3,Cortelyou Rd (B-Q),MTA Subway - Cortelyou Rd (B/Q),94
+35454391,4daf924eec8e4c4af4edc477,116th St (4-6-6 Express),MTA Bar Car 8:07,18
+35454395,,Parkchester (6-6 Express),,0
+35454397,4b78360df964a520a7bc2ee3,Franklin St (1-2),MTA Subway - Chambers St (1/2/3),58
+35454399,4a8ae0bff964a520b30a20e3,80th St (A-S),MTA Subway - 80th St/Hudson St (A),58
+35454401,42829c80f964a5206a221fe3,5th Ave - Bryant Pk (7-7 Express),Grand Central Terminal,22
+35454403,,Spring St (4-6-6 Express),,0
+35454405,49de0156f964a52021601fe3,125th St (4-5-6-6 Express),Metro North - Harlem 125th Station,41
+35454407,4bd1b96a77b29c7439118d82,Coney Island - Stillwell Av (D-F-N-Q),MTA Subway - Coney Island/Stillwell Ave (D/F/N/Q),84
